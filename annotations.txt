@@ -1,0 +1,21 @@
+# Referencias sobre Kpn-paginator-bundle
+
+- https://github.com/KnpLabs/KnpPaginatorBundle#
+- https://codereviewvideos.com/course/pagination-filtering-and-sorting
+- https://www.youtube.com/watch?v=9-aeLgFLHS4
+- https://medium.com/@mischenkoandrey/simple-restful-pagination-with-symfony-and-angularjs-9cb003cb38f
+- https://codereviewvideos.com/course/pagination-filtering-and-sorting/video/api-pagination-basic-filtering-and-sorting
+
+# Validators
+symfony/validator
+
+# How to implement your own fields inclusion rules with jms serializer
+- https://jolicode.com/blog/how-to-implement-your-own-fields-inclusion-rules-with-jms-serializer
+- https://github.com/schmittjoh/serializer/blob/master/src/Exclusion/GroupsExclusionStrategy.php
+
+# Create groups symfony
+use JMS\Serializer\Annotation\Groups;
+@Groups({"publisher"})
+
+# Action before subscriber
+https://github.com/peterlafferty/symfony-json-body/tree/actionsubscriber/src/EventSubscriber

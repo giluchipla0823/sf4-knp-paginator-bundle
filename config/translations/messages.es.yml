@@ -1,0 +1,9 @@
+'default.message': 'Mensaje por defecto.'
+
+# Http status code
+'http_status_code.not_found': "The resource was not found."
+
+# Validators
+'validators.allowed_fields_to_filter': 'Los campos válidos para filtrar son: %string%.'
+'validators.exists_entity': 'El valor "{{ value }}" no existe en la base de datos.'
+'validators.unique_entity': 'El valor "{{ value }}" ya se encuentrado usado.'

@@ -1,0 +1,9 @@
+'default.message': 'Default message'
+
+# Http status code
+'http_status_code.not_found': 'El recurs no va ser oposat.'
+
+# Validators
+'validators.allowed_fields_to_filter': 'The valid fields for filtering are: %string%.'
+'validators.exists_entity': 'The value "{{ value }}" does not exist in database.'
+'validators.unique_entity': 'The value "{{ value }}" is already used.'
